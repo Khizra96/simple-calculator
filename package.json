@@ -1,0 +1,21 @@
+{
+  "name": "m6ra10-calculator-project",
+  "version": "1.0.0",
+  "description": "A  simple calculator with typescript nodejs and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "calculator-project": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khizra tahir",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
